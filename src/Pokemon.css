@@ -1,0 +1,14 @@
+.pokemon{
+    display: flex;
+    flex-direction: column;
+    width: 350px;
+    justify-content: flex-start;
+}
+.pokemon h3{
+    margin: 2px auto;
+}
+.pokemon img{
+    width: 350px;
+    height: 300px;
+    object-fit: cover;
+}
